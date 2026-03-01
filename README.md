@@ -12,5 +12,10 @@
 <p1>A Unity remaster of the first Legend of Zelda (NES) dungeon, created by Halynn Jung and Akanksha Rai! Complete with a custom level with a new mechanic (try hitting 4). I worked on enemy movement, player weapons and attacks, UI, and level design.</p1>
 </ul>
 
+<ul>
+<li><a href="https://hellojelloo.itch.io/flippin-out">Flippin' Out!</a></li>
+<p1>A auto-runner platformer prototype where you flip gravity to your will.</p1>
+</ul>
+
 <!-- TIP: Rename this file "index.html", and it will become the default landing page whenever someone navigates their browser to your domain. -->
 </html>
