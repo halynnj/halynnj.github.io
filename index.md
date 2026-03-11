@@ -2,18 +2,21 @@
 
 ---
 
-### Video Game Development 
+### Video Game Development
+
+**Full Development** 
 
 [The Legend of Zelda Remaster](/tloz_remaster)
-<!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
----
 [Flippin' Out](/flippin_out)
-<!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
 ---
-[Project 3 Title](http://example.com/)
-<!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
+
+**Art and Animation**
+
+[Assault & Battery](/assault_battery)
+
+[Big Feelings](/big_feelings)
 
 ---
 
