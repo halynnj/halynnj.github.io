@@ -6,17 +6,17 @@
 
 **Full Development** 
 
-[The Legend of Zelda Remaster](/tloz_remaster)
+- [The Legend of Zelda Remaster](/tloz_remaster)
 
-[Flippin' Out](/flippin_out)
+- [Flippin' Out](/flippin_out)
 
 ---
 
 **Art and Animation**
 
-[Assault & Battery](/assault_battery)
+- [Assault & Battery](/assault_battery)
 
-[Big Feelings](/big_feelings)
+- [Big Feelings](/big_feelings)
 
 ---
 
