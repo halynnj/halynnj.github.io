@@ -6,4 +6,4 @@
 
 Main contributions focused on model creation, rigging, animation and its implementation, and cutscenes. Also contributed technical elements such as the point and click system, the burn mechanic, and the creation of the entire Mage character.
 
-Play it on [Itch.io]([https://alex-whiale-white.itch.io/fantastic-grounds/])!
+Play it on [GameJolt]([https://gamejolt.com/games/fantastic-grounds/1065197])!
