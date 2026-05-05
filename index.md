@@ -18,6 +18,8 @@
 
 - [Assault & Battery](/assault_battery)
 
+- [3D Model Portfolio](https://eecs298.com/galleries/students/halynnj/gallery.html)
+
 - [Big Feelings](/big_feelings)
 
 ---
