@@ -1,6 +1,6 @@
 ## Fantastic Grounds
 
-<img src=""/>
+<img src="/images/FANTASTIC.png"/>
 
 **Project description:** Fantastic Grounds is a 2-player turn-based strategy game, developed by a team of 4 students. Players take turns exploring and attacking one another using their team of heroes. Each round, each player has a set number of actions, bonus actions, and movement they must budget in order to win.
 
